@@ -14,6 +14,20 @@ OBJETIVO GENERAL
 
 Estudiar y comprender la base teórica y a su vez, resolver los ejercicios de aplicación de los capítulos 9 y 10 del libro "Principios de circuitos eléctricos" de Floyd, a los cuales corresponden los temas: "Circuitos en serie-paralelo" y "Teoremas de circuitos y conversiones", analizando cada subtema respectivo, en lo que involucra: definiciones, fórmulas y aplicaciones.
 
+OBJETIVOS ESPECÍFICOS
+
+* Analizar tres métodos de resolver ecuaciones simultáneas.
+* Utilizar el método de la corriente en ramas para determinar cantidades desconocidas en un circuito
+* Utilizar el análisis de lazos para encontrar cantidades desconocidas en un circuito
+* Utilizar el análisis de nodos para determinar cantidades desconocidas en un circuito
+* Determinar los principios de un campo magnético, definir el término flujo magnético, definir el término densidad de flujo magnético, analizar cómo se magnetizan los materiales, explicar cómo funciona un interruptor magnético.
+* Determinar los principios del electromagnetismo: dirección de las líneas de fuerza magnéticas, permeabilidad, reluctancia, fuerza magnetomotriz y describir un electroimán básico.
+* Analizar y comprender el principio operativo de varios tipos de dispositivos electromagnéticos.
+* Determinar y comprender qué es la histéresis magnética.
+* Analizar el principio de inducción electromagnética.
+* Conocer y describir algunas aplicaciones de la inducción electromagnética.
+
+
 ## 2. MARCO TEÓRICO
 
 ![1](https://user-images.githubusercontent.com/116693260/210266260-8e8016f4-fd50-4416-b029-a057af9d80d4.jpg)
@@ -187,4 +201,21 @@ Estudiar y comprender la base teórica y a su vez, resolver los ejercicios de ap
 
   ![C2_20](https://user-images.githubusercontent.com/116693260/210273103-5c51c8d1-4c4c-4a6f-8be3-78b6f10140a1.jpg)
 
-  
+## 4. VIDEO
+
+## 5. CONCLUSIONES
+
+* Se ha determinado que el procedimiento de aplicación del método de corriente en ramas, es el siguiente: identificar lazos y nodos en un circuito, desarrollar un conjunto de ecuaciones de la corriente en ramas, y resolver las ecuaciones de la corriente en ramas
+* En síntesis, en el método de corriente de lazo, se debe: asignar corrientes de lazo, aplicar la ley del voltaje de Kirchhoff alrededor de cada lazo, desarrollar las ecuaciones de lazo y finalmente resolver las ecuaciones de lazo 
+* En método de nodos, como tal, se deben eleccionar los nodos en los cuales se desconoce el voltaje y asignar corrientes, posteriormente, aplicar la ley de la corriente de Kirchhoff en cada nodo y desarrollar y resolver las ecuaciones de nodo.
+* En cuanto a los principios de un campo magnético, se ha denotado: el flujo magnético, la densidad de flujo magnético, y la forma en que se magnetizan los materiales, además de determinar cómo funciona un interruptor magnético. 
+* Dentro de los principios del electromagnetismo, se ha conocido diferentes propiedades, tales como: permeabilidad, reluctancia y fuerza magnetomotriz, mismas que contemplan fórmulas que se relacionan entre sí, que permiten resolver circuitos magnéticos.  
+* Se determinado el funcionamiento de varios tipos de dispositivos electromagnéticos, tales como: el solenoide y una válvula solenoide, un relevador.
+* La histéresis magnética (H), comprende una fórmula que relaciona la fuerza magnetizante con la unidad de longitud del material (H=Fm/l), de donde se despliegan más fórmulas para determinar, por ejemplo, la fuerza magnetizante (Fm), donde se involucra, el número de vueltas (N) de la bobina de alambre y la corriente (I) que circule a través de la bobina (Fm=NI); además se ha determinado la forma de analizar una curva de histéresis, y se ha conocido acerca de la  retentividad. 
+* Dentro de la inducción electromagnética se ha determinado, cómo se induce voltaje en un conductor en un campo magnético, la polaridad de un voltaje inducido, también se ha analizado las fuerzas que actúan sobre un conductor en un campo magnético, además de aprender sobre dos leyes, la ley de Faraday y la ley de Lenz.
+* En síntesis, dentro de las aplicaciones de la inducción electromagnética, se ha conocido cómo funciona un sensor de posición de un cigüeñal y cómo funciona un generador de cd.
+
+
+## 6. BIBLIOGRAFÍA 
+
+Floyd, T. L. (2007). Principios de Circuitos Electricos. Mexico: Pearson Educacion
