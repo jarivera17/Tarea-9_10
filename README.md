@@ -180,6 +180,8 @@ OBJETIVOS ESPECÍFICOS
 
   12. Explique la secuencia de los eventos mostrados en el circuito de la figura 10-43 comenzando cuando el interruptor 1 (SW1) se cierra.
 
+  ![Ejercicios Capítulos 9_10_page-0016 1](https://user-images.githubusercontent.com/116693260/210369795-ba577ec2-620c-455c-981f-971011880bfc.jpg)
+
   SECCIÓN 10–4 Histéresis magnética 
 
   14. ¿Cuál es la fuerza magnetizante en el problema 9 si la longitud del núcleo es de 0.2 m?	
@@ -200,8 +202,20 @@ OBJETIVOS ESPECÍFICOS
   20. Un campo magnético cambia a razón de 3500x10^-3 Wb/s. ¿Cuánto voltaje se induce en una bobina de 500 vueltas colocada en el campo magnético?
 
   ![C2_20](https://user-images.githubusercontent.com/116693260/210273103-5c51c8d1-4c4c-4a6f-8be3-78b6f10140a1.jpg)
+  
+  SECCIÓN 10–6 Aplicaciones de la inducción electromagnética 
+
+  22. En la figura 10-33, ¿por qué no se induce voltaje cuando el disco no está girando?
+
+  ![Ejercicios Capítulos 9_10_page-0017 1](https://user-images.githubusercontent.com/116693260/210369671-d5eb5b5f-7c74-43d2-8ef7-e0f0db237a4d.jpg)
+  
+  *24.Un generador de cd básico de una espira gira a 60 rev/s. ¿Cuántas veces cada segundo llega el voltaje de cd de salida a su pico (alcanza un máximo)?
+  
+  ![Ejercicios Capítulos 9_10_page-0017 2](https://user-images.githubusercontent.com/116693260/210369766-22080808-02ba-4b7b-93ea-8b21f0662821.jpg)
 
 ## 4. VIDEO
+
+https://uespe-my.sharepoint.com/:v:/g/personal/jarivera17_espe_edu_ec/EXKjEjvz8tJGsdAM9LMrHFABbyO3i6zxYf0a4QQ_Vd4WgQ?e=FMf8hQ
 
 ## 5. CONCLUSIONES
 
